@@ -1,2 +1,2 @@
 # Terminal-TicTacToe-c-
-Very simple tic tac toe in c++
+Very simple tic tac toe in c++ for beginners
